@@ -40,7 +40,7 @@ I am a **Computer Science Engineer** and a **B.Tech student in CSE at KITS Waran
 
 ---
 
-## 💡 Quote
+
 > “It has become appallingly obvious that our technology has exceeded our humanity.”  
 > – Albert Einstein  
 
