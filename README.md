@@ -1,4 +1,4 @@
-# Hi there!, I'm Raghav Damera
+# Hi there! I'm Raghav Damera
 
 I am a **Computer Science Engineer** and a **B.Tech student in CSE at KITS Warangal**, with experience in both **backend** and **frontend development**.  
 
